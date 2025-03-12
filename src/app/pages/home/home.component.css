@@ -1,8 +1,9 @@
 .articles__main{
     display: flex;
-    justify-content: space-around;
+    align-items: center;
+    justify-content: space-between;
     margin-top: 36px;
-    margin-inline: 272px;
+    padding-inline: 286px;
 }
 
 .articles__others{

@@ -1,0 +1,31 @@
+.container{
+    background-color: #06AA48;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    align-items: center;
+    padding-inline: 280px;
+}
+
+strong{
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    cursor: pointer;
+}
+
+img{
+    width: 70px;
+}
+
+input{
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: #05913D;
+    border-radius: 4px;
+}
+
+input::placeholder{
+    color: white;
+    font-weight: 600;
+}

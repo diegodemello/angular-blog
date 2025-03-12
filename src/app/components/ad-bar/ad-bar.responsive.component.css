@@ -1,0 +1,11 @@
+@media screen and (min-width:1024px){
+    .content {
+        padding-inline: 4rem;
+    }
+}
+
+@media screen and (min-width:500px){
+    .content {
+        padding-inline: 2rem;
+    }
+}

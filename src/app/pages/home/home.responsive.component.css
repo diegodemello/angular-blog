@@ -1,0 +1,11 @@
+@media screen and (max-width:1424px) {
+    .articles__others{
+        margin-inline: 55px;
+    }   
+}
+
+@media screen and (max-width:768px) {
+    .articles__others{
+        margin-inline: 30px;
+    }   
+}

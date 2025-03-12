@@ -1,0 +1,50 @@
+@media screen and (max-width:1024px) {
+    .container{
+        width: 450px;
+        height: 250px;
+    }
+
+    .content{
+        top: 45%;
+    }
+
+    h1{
+        font-weight: 700;
+        margin-bottom: 16px;
+        font-size: 20px;
+    }
+    ul{
+        margin-left: 16px;
+    }
+    
+    li{
+        margin-bottom: 8px;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .container{
+        width: 350px;
+        height: 300px;
+    }
+
+    h1{
+        font-weight: 700;
+        margin-bottom: 16px;
+        font-size: 20px;
+        display: block;
+        width: 345px;
+    }
+    ul{
+        margin-left: 16px;
+    }
+    
+    li{
+        margin-bottom: 8px;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:425px) {
+}

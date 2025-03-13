@@ -1,27 +1,44 @@
-# AngularBlog
+# Globo Esporte - Desafio DecolaTech
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
+Esse projeto foi desenvolvido durante o desafio do Bootcamp DecolaTech da Dio em parceria com a Avanade. O objetivo era criar um blog com Angular.
 
-## Development server
+## 💡 Descrição
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+O blog possui uma interface simples para exibição de notícias esportivas, com um layout responsivo, utilizando as melhores práticas do **Angular**.
 
-## Code scaffolding
+## 🚀 Tecnologias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-## Build
+- **Angular 14.0.3** - Framework JavaScript para a criação de interfaces de usuário dinâmicas.
+- **TypeScript** - Superset do JavaScript para maior robustez e tipagem estática.
+- **HTML/CSS** - Marcação e estilo da interface.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 📥 Como rodar o projeto
 
-## Running unit tests
+### Pré-requisitos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- **Node.js**: Você precisará ter o Node.js instalado em sua máquina.
 
-## Running end-to-end tests
+### Instalação
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone este repositório em sua máquina local:
+    ```bash
+    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    ```
 
-## Further help
+2. Instale o Angular:
+    ```bash
+    npm install -g @angular/cli@14.0.3
+    ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+3. Para iniciar a aplicação, execute o comando:
+    ```bash
+    ng serve
+    ```
+
+4. Acesse o projeto em `http://localhost:4200`.
+
+## 🖼️ Imagens
+
+![Captura de tela 2025-03-12 215144](https://github.com/user-attachments/assets/9e7ebf50-e1b6-49bf-b0b2-ce2f75994750)
